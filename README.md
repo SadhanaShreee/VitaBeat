@@ -4,6 +4,28 @@
 
 # VitaBeat – AI-Powered Heart Attack Detection Device  
 
+## 🚀 Project Submission for GDG Hackathon 2025  
+
+This project, **VitaBeat**, is submitted as part of the **Google Developer Groups (GDG) Hackathon 2025**. It addresses the problem of **"Lack of Access to Healthcare in Underserved Communities"** by providing an **affordable, portable heart attack detection device** for rural areas.  
+
+## 🏥 Problem Statement: Lack of Access to Healthcare in Underserved Communities  
+
+Many rural and remote communities lack access to basic healthcare services, leading to **preventable diseases, poor health outcomes, and higher mortality rates**. The **primary barriers** include:  
+- **Limited healthcare infrastructure** (hospitals, diagnostic centers).  
+- **Shortage of medical professionals** (especially cardiologists).  
+- **Lack of awareness about early heart attack detection**.  
+
+## 💡 Our Solution – VitaBeat  
+
+VitaBeat is a **low-cost, portable device** that helps detect early signs of a heart attack using:  
+✅ **Blood biomarker testing (Troponin-I detection)** – Like a glucometer for heart health.  
+✅ **ECG & PPG sensors** – For additional heart rhythm analysis.  
+✅ **No internet required** – Works offline, making it suitable for rural areas.  
+✅ **Easy-to-use design** – No medical expertise needed.  
+
+This project aligns with **UN SDG 3: Good Health and Well-Being**, ensuring **affordable healthcare access** for all.  
+
+
 ## Overview  
 There is a pressing need for a dedicated, portable device that can predict the probability of a heart attack in real-time. This device should be easy to use, affordable, and capable of providing actionable insights, empowering users to seek timely medical intervention.
 
