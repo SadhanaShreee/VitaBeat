@@ -5,6 +5,8 @@
 # VitaBeat – AI-Powered Heart Attack Detection Device  
 
 ## Overview  
+There is a pressing need for a dedicated, portable device that can predict the probability of a heart attack in real-time. This device should be easy to use, affordable, and capable of providing actionable insights, empowering users to seek timely medical intervention.
+
 VitaBeat is a compact, AI-powered device designed for real-time heart attack risk detection, similar to a glucometer. It requires no cloud storage and instantly analyzes heart health to alert users of potential risks.  
 
 ## Features  
