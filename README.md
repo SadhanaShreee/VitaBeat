@@ -29,27 +29,45 @@ VitaBeat is a compact, AI-powered device designed for real-time heart attack ris
 
 ## Implementation Cost (Estimated)
 
-| Component                                 | Estimated Cost (INR)  |
-|-------------------------------------------|-----------------------|
-| Microcontroller (ESP32/STM32)             | ₹500 – ₹1,500        |
-| ECG Sensor Module (AD8232)                | ₹900 – ₹1,800        |
-| Photoplethysmography (PPG) Sensor         | ₹300 – ₹700         |
-| OLED/LCD Display                          | ₹500 – ₹1,200       |
-| Rechargeable Battery                      | ₹300 – ₹600         |
-| 3D-Printed Casing                         | ₹700 – ₹1,500       |
-| PCB Manufacturing & Assembly              | ₹1,000 – ₹3,000     |
-| Firmware Development                      | ₹5,000 – ₹12,000    |
-| Testing & Calibration                     | ₹2,000 – ₹5,000     |
-| Miscellaneous Components & Assembly       | ₹1,500 – ₹4,000     |
+For a detailed cost breakdown, check the **(Hardware.md)**.
 
-### **Total Estimated Cost:** ₹12,700 – ₹31,300  
   
+## How to Use the VitaBeat Device  
 
-## How It Works  
-1️⃣ Place your finger on the sensor.  
-2️⃣ The device reads heart signals.  
-3️⃣ AI model processes the data to detect heart attack risks.  
-4️⃣ Displays instant heart health alerts.  
+### **Step 1: Power On the Device**  
+- Press and hold the **power button** to turn on the device.  
+- The screen will show a **blinking red LED** indicating it’s ready.  
+
+### **Step 2: Perform the Blood Test (Main Test Method)**  
+- Wash hands with clean water.  
+- Place your **finger on the built-in prick system** and press the **"Prick" button** (like a glucometer).  
+- A small drop of blood will appear.  
+- **Touch the blood drop to the test strip** and insert it into the device.  
+- The device will analyze **Troponin-I levels** (a key heart attack biomarker).  
+
+### **Step 3: Optional ECG & PPG Check (For More Accuracy)**  
+- While the blood test is running, place your **finger on the ECG/PPG sensor pad**.  
+- The device will measure **heart activity and blood flow patterns**.  
+- This step is **optional** but can provide additional heart health insights.  
+
+### **Step 4: View the Results**  
+- After **10-15 seconds**, the screen will display the **heart attack risk status**:  
+  - ✅ **Green LED:** Normal heart health (Safe).  
+  - ⚠️ **Yellow LED:** Moderate risk (Monitor your health).  
+  - 🚨 **Red LED + Beep:** High risk detected – **Seek medical help immediately**.  
+
+### **Step 5: Auto-Eject & Power Off**  
+- The device will **automatically eject the used test strip** – **DO NOT reuse it**.  
+- Press and hold the **power button** for 3 seconds to turn off the device.  
+- Store it in a **safe, dry place** for future use.  
+
+
+
+This version is now **simplified for rural users** by:    
+✔️ Making the **prick process automatic** to avoid confusion.  
+✔️ Using **color-based LED alerts** instead of complex instructions.  
+✔️ **Auto-ejecting the test strip** to prevent reuse.  
+  
 
 ## License  
 This project is licensed under the **Apache License 2.0**. See the `LICENSE` file for details.  
