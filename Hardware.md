@@ -1,6 +1,6 @@
-VitaBeat Hardware Documentation
+# VitaBeat Hardware Documentation
 
-Overview
+## Overview
 
 VitaBeat is a portable, real-time heart attack detection device that analyzes heart health using a combination of ECG, PPG, and blood biomarker sensors. It functions similarly to a glucometer, providing instant results without cloud storage.
 
